@@ -1,0 +1,38 @@
+.stack {
+    display: inline-block;
+    color: #23282c;
+    font-weight: bold;
+    font-size: 13px;
+    margin-left: 4px;
+    border-style: solid;
+}
+
+.unvisitedStack {
+    border-color: #f5f5f5;
+    background-color: #f5f5f5;
+}
+
+.swappingStack {
+    border-color: #397bff;
+    background-color: #397bff;
+}
+
+.currentStack {
+    border-color: #6435c9;
+    background-color: #6435c9;
+}
+
+.sortInPlaceStack {
+    border-color: #ddc9b4;
+    background-color: #ddc9b4;
+}
+
+.mergingStack {
+    border-color: #397bff;
+    background-color: #397bff;
+}
+
+.leftToMergeStack {
+    border-color: #397bff;
+    background-color: #397bff;
+}
