@@ -5,7 +5,6 @@
     -   [Technologies](#technologies)
     -   [Setup](#setup)
     -   [Demo](#demo)
-    -   [Future work](#future-work)
 
 ## Description
 
