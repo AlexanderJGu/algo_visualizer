@@ -92,5 +92,4 @@
       "\\.(css|less)$": "identity-obj-proxy"
     }
   },
-  "homepage": "http://GeorgianBadita.github.io/algorithm-visualizer"
 }
